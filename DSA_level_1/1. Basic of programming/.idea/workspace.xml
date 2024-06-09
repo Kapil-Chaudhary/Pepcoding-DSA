@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72c064e6-ccc1-426f-b6dc-91d29e55602d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/14 Feb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/15 feb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/15 feb/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/15 feb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/16 Feb/style3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/2bottom_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/2left_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/2right_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/2top_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/GoogleAnalytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/LOGO_L.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/bottom_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/bottom_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/styles_sfhello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/top_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/Course Completion Certificate_files/top_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/1. FEB/25 Feb/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/complete project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/complete project/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/complete project/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/my project/contant" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/my project/index_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/my project/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/25 march/my project/style_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/3 march/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/3 march/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/3 march/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/3 march/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/4 march/amazon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/4 march/amazon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/4 march/flag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/4 march/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/4 march/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/2bottom_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/2left_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/2right_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/2top_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/GoogleAnalytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/LOGO_L.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/analytics.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/bottom_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/bottom_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/styles_sfhello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/top_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/Course Completion Certificate_files/top_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/cart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/flipcart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/flipcart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/flipkart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/img_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/search_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/top_a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/top_b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/5 march ( flipcart )/top_offer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/7 march/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/7 march/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/7 march/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/7 march/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../WebDevelopment/html/2. MARCH/7 march/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/1. introduction-to-recursion/src/Fibonacci_dp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/All_indices_Of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/Display_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/Display_Array_In_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/First_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/Last_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/2. recursion-in-arrays/src/Max_Of_An_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Get_Kpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Get_Maze_Path_With_Jumps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Get_Maze_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Get_Stair_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Get_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/3. recursion-with-arraylist/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Print_Encodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Print_Kpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Print_Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Print_Stair_Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/4. recursion-on-the-way-up/src/Print_Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/Flood_Fill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/Knights_Tour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/N_Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/Number_Of_Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2. Recursion and Backtracking/5.  recursion-backtracking/src/target_sum_subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Are_Trees_Mirror_In_Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Are_Trees_Similar_In_Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Ceil_And_Floor_In_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Find_In_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Height_Of_A_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Is_Generic_Tree_Symmetric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Iterative_Preorder_And_Postorder_Of_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Kth_Largest_Element_In_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Level_order_Of_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Levelorder_Linewise_Zig_Zag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Lowest_Common_Ancestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Maximum_In_A_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Mirror_A_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Node_To_Root_Path_In_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Node_With_Maximum_Subtree_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Predecessor_And_Successor_Of_An_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Remove_Leaves_In_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/3. Generic-Tree/src/Size_Of_Generic_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Diameter_Of_A_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Find_And_Nodetorootpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Find_And_Nodetorootpath_In_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Is_A_Binary_Search_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Iterative_Pre_Post_In.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Levelorder_Traversal_Of_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Print_K_Levels_Down.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Print_Nodes_K_Distance_Away.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Remove_Leaves_In_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Right_View_Of_A_Binarytree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Size_Sum_Maximum_And_Height_Of_A_Binary_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Transform_To_Left_cloned_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/Transform_To_Normal_From_Left_cloned_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4. Basic Data Structures/4. binary-tree/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Love Babber/1 Arrays/src/a1_reverse_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Love Babber/1 Arrays/src/a2_Find_the_maximum_and_minimum_element_in_an_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Love Babber/1 Arrays/src/a3_find_Kth_ele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Love Babber/1 Arrays/src/practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../udemy/src/child.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="24YsjhypyrFfzG3PrLSmvZ9z81y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2 Patterns" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72c064e6-ccc1-426f-b6dc-91d29e55602d" name="Changes" comment="" />
+      <created>1643819000345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643819000345</updated>
+    </task>
+    <servers />
+  </component>
+</project>

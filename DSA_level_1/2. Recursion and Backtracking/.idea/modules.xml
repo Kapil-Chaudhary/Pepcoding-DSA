@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. introduction-to-recursion/1. introduction-to-recursion.iml" filepath="$PROJECT_DIR$/1. introduction-to-recursion/1. introduction-to-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/2. Recursion and Backtracking.iml" filepath="$PROJECT_DIR$/.idea/2. Recursion and Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. recursion-in-arrays/2. recursion-in-arrays.iml" filepath="$PROJECT_DIR$/2. recursion-in-arrays/2. recursion-in-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. recursion-with-arraylist/3. recursion-with-arraylist.iml" filepath="$PROJECT_DIR$/3. recursion-with-arraylist/3. recursion-with-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. recursion-on-the-way-up/4. recursion-on-the-way-up.iml" filepath="$PROJECT_DIR$/4. recursion-on-the-way-up/4. recursion-on-the-way-up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.  recursion-backtracking/5.  recursion-backtracking.iml" filepath="$PROJECT_DIR$/5.  recursion-backtracking/5.  recursion-backtracking.iml" />
+    </modules>
+  </component>
+</project>
